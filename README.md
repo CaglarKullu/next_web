@@ -11,13 +11,13 @@ A Flutter package designed to simplify the creation of responsive web applicatio
 
 ## Installation
 
-To use this package, add `responsive_flutter_web` to your `pubspec.yaml` file:
+To use this package, add `next_web` to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
   flutter:
     sdk: flutter
-  responsive_flutter_web: ^0.1.0
+  next_web: ^0.1.0
 
 Usage
 Adaptive Layouts:
