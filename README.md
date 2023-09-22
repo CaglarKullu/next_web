@@ -22,7 +22,7 @@ dependencies:
 Usage
 Adaptive Layouts:
 dart
-Copy code
+
 AdaptiveLayout(
   mobile: MobileLayout(),
   tablet: TabletLayout(),
@@ -30,7 +30,7 @@ AdaptiveLayout(
 )
 Responsive Grid:
 dart
-Copy code
+
 ResponsiveGrid(
   itemBuilder: (context, index) => GridItemWidget(),
   xs: 1,
@@ -40,7 +40,7 @@ ResponsiveGrid(
 )
 Responsive Fractionally Sized Box:
 dart
-Copy code
+
 ResponsiveFractionallySizedBox(
   xsFraction: 0.9,
   smFraction: 0.6,
