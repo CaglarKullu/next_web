@@ -21,7 +21,7 @@ dependencies:
 
 Usage
 Adaptive Layouts:
-dart
+
 
 AdaptiveLayout(
   mobile: MobileLayout(),
@@ -29,7 +29,7 @@ AdaptiveLayout(
   desktop: DesktopLayout(),
 )
 Responsive Grid:
-dart
+
 
 ResponsiveGrid(
   itemBuilder: (context, index) => GridItemWidget(),
@@ -39,7 +39,7 @@ ResponsiveGrid(
   lg: 4,
 )
 Responsive Fractionally Sized Box:
-dart
+
 
 ResponsiveFractionallySizedBox(
   xsFraction: 0.9,
